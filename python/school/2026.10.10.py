@@ -1,6 +1,6 @@
 # 项目一：个人简历
 name = "淼清"
-gender = "男"
+gender = "沃尔玛购物袋"
 age = 20
 height = 177.7
 weight = 80.5
