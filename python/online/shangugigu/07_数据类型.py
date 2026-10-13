@@ -1,0 +1,8 @@
+adadas = type("张三")
+print(adadas)
+print(type(18))
+print('******************************')
+print(type('18'))
+print(type(18))
+print(type('65.2'))
+print(type(65.2))
