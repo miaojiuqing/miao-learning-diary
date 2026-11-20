@@ -1,3 +1,7 @@
+# 省流：
+#     continues = 重试
+#     break = 退出
+
 # 测试continue
 # for day in range(1, 5):
 #     print(f'********第{day}天********')
